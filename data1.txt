@@ -1,1 +1,7 @@
 Hello, i am from data one file
+
+Hi, My name is Imran.
+I am from feni. Right now, i am live in asad gate.
+i have completed my ssc in 2021 at my home town.
+and right now , i am learning MERN Stack development. MERN meaning Mongodb, express, react, and node js.
+In my free time, i play cricket, and watch facebook reels and youtube shots.
